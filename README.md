@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch movies and TV series
 - 🔗 Other Links: [HackerRank](https://www.hackerrank.com/akarishiraj) || 
-                  [LinkedIn](www.linkedin.com/in/akarishiraj)
+                  [LinkedIn](https://www.linkedin.com/in/akarishiraj)
 <img src="https://github-readme-stats.vercel.app/api?username=akarishiraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
