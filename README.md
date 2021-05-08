@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter - @akarishiraj](https://twitter.com/akarishiraj) || [Instagram - @akarishiraj](https://www.instagram.com/akarishiraj/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch movies and TV series
-
+- 🔗 Other Links: [HackerRank](https://www.hackerrank.com/akarishiraj)
+                  [LinkedIn](www.linkedin.com/in/akarishiraj)
 <img src="https://github-readme-stats.vercel.app/api?username=akarishiraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
