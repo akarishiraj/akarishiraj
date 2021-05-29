@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Competitive Porgramming and Flutter
+- 🤔 I’m looking for help with Competitive Porgramming and Web Development.
 - 💬 Ask me about Python or Tech Related Stuff
 - 📫 How to reach me: 
 [Twitter - @akarishiraj](https://twitter.com/akarishiraj) || 
@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch movies and TV series
 - 🔗 Other Links: [HackerRank](https://www.hackerrank.com/akarishiraj) || 
-                  [LinkedIn](https://www.linkedin.com/in/akarishiraj)
+                  [LinkedIn](https://www.linkedin.com/in/akarishiraj) 
                   
 <br>
 
