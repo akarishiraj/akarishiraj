@@ -33,7 +33,7 @@
  <br><br>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/akarishiraj" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="akarishiraj" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/akarishiraj" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="akarishiraj" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,3 +44,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarishiraj&show_icons=true&locale=en" alt="ishikkkkaaaa" style=""/></p>
+ -->
