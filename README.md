@@ -15,7 +15,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/akarishiraj" target="blank"><img src="https://img.shields.io/twitter/follow/akarishiraj?logo=twitter&style=for-the-badge" alt="akarishiraj" /></a> </p>
 
 <!-- - 📫 How to reach me **rishi.raj306@gmail.com** -->
 
